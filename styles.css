@@ -147,7 +147,7 @@
   .store-card{
     border-color: var(--primary);
     background: #26211d;   /* أغمق قليلًا من خلفية الموقع */
-    color: #e8e6e3;
+    color: #FF0000;
   }
   .store-card a{ color: var(--primary); }
   
