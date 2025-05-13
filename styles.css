@@ -146,8 +146,8 @@
   /* ===== بطاقات المتاجر ===== */
   .store-card{
     border-color: var(--primary);
-    background: #FF0000;   /* أغمق قليلًا من خلفية الموقع */
-    color: #FF0000;
+    background: #26211d;   /* أغمق قليلًا من خلفية الموقع */
+    color: #e8e6e3;
   }
   .store-card a{ color: var(--primary); }
   
